@@ -1,0 +1,110 @@
+body {
+    font-family: 'Montserrat';
+  }
+  a {
+    color: #7d848e;
+  }
+  header {
+    width: 100%;
+    height: 120px;
+    background-color: #303338;
+  
+  }
+  
+  main {
+    height: 100%;
+    width: 100%;
+  }
+  
+  footer {
+    height: 80px;
+    width: 100%;
+    background-color:#303338;
+    bottom: 0;
+  }
+  
+  .navH2 {
+    display: inline-block;
+    padding-left:40px;
+    padding-right:50px;
+    padding-top: 50px;
+  }
+  
+  .secondMid {
+    display: inline-block;
+    padding-left: 25px;
+    padding-top: 25px;
+  }
+  
+  #nav-image {
+    padding-left: 151px;
+    padding-right:50px;
+    padding-top: 20px;
+    position: absolute;
+  }
+  
+  #navH1 {
+    display: inline-block;
+    padding-left:375px;
+    padding-right:50px;
+    padding-top: 50px;
+  }
+  
+  #mainContent {
+    margin: 0 auto;
+    width: 961px;
+    position: relative;
+  }
+  
+  #largeTop {
+    display: inline-block;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+  
+  #firstMid {
+    display: inline-block;
+    padding-bottom: 25px;
+  }
+  
+  #mainBottom {
+    width: 961px;
+    padding-bottom: 25px;
+  }
+  
+  #firstBottom {
+    display: inline-block;
+  }
+  
+  #scrollbox {
+    float: right;
+    width: 455px;
+  }
+  
+  #scroll {
+    float: right;
+    height: 360px;
+    width: 455px;
+    overflow: scroll;
+  }
+  
+  #button {
+    float: left;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background: #303338;
+    color: #7d848e;
+  }
+  
+  h1 {
+    font-weight: bold
+  }
+  
+  button:hover {
+    background: blue;
+    animation-timing-function: 350ms;
+  }
